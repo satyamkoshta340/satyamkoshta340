@@ -14,19 +14,22 @@ Hi, I'm Satyam Koshta, a Web Developer, Problem Solving Enthusiast and Open Sour
 - Web Development - Software Developer
 
 
-**Languages and Tools:**  
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="42px">  Languages and Tools:
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
+<code><img width="40px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="40px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
+<code><img width="40px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
+<code><img width="40px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/2x/git.png" title="Git"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/css3.png" title="CSS"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/html-5.png" title="HTML"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/48/000000/javascript--v1.png" title="Javascript"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/mongodb.png" title="MongoDB"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/nodejs.png" title="Nodejs"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/redux.png" title="Redux"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/firebase.png" title="Firebase"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/sass.png" title="Sass"/></code>
+<code><img width="40px" src="https://img.icons8.com/color/8x/000000/gitlab.png" title="GitLab"/></code>
 
 ![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=satyamkoshta340&show_icons=true&hide_border=true)
 
