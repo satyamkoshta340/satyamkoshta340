@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm [Satyam!](https://windtalker.netlify.app/) 
+### Hey 👋🏽, I'm [Satyam!](https://satyamkoshta340.github.io/my-cv/) 
 
 Hi, I'm Satyam Koshta, a Web Developer, Problem Solving Enthusiast and Open Source Developer🚀 from India. <br> <br> 
 [![Linkedin Badge](https://img.shields.io/badge/-SatyamKoshta-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/satyamkoshta340)](https://www.linkedin.com/in/satyamkoshta340/)
@@ -6,9 +6,6 @@ Hi, I'm Satyam Koshta, a Web Developer, Problem Solving Enthusiast and Open Sour
 [![Gmail Badge](https://img.shields.io/badge/-GMail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:satyamkoshta340@gmail.com)](mailto:satyamkoshta340@gmail.com)
 <br />
 ![](https://visitor-badge.glitch.me/badge?page_id=satyamkoshta340.satyamkoshta340)  <br> 
-<!--
-**satyamkoshta340/satyamkoshta340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---> 
 
 
 - Web Development - Software Developer
@@ -39,15 +36,4 @@ Hi, I'm Satyam Koshta, a Web Developer, Problem Solving Enthusiast and Open Sour
 
 <!--
 **satyamkoshta340/satyamkoshta340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
