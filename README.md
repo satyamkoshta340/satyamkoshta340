@@ -14,6 +14,7 @@ Hi, I'm Satyam Koshta, a Web Developer, Problem Solving Enthusiast and Open Sour
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="37px">  Languages and Tools:
 
 <code><img width="30px" src="https://img.icons8.com/color/4x/c-plus-plus-logo.png" title="C++"/></code>
+<code><img width="30px" src="https://img.icons8.com/color/4x/python.png" title="python"/></code>
 <code><img width="30px" src="https://img.icons8.com/plasticine/100/000000/react.png" title="React"/></code>
 <code><img width="30px" src="https://img.icons8.com/dusk/64/000000/database-restore.png" title="Database"/></code>
 <code><img width="30px" src="https://img.icons8.com/fluent/8x/github.png" title="GitHub"/></code>
