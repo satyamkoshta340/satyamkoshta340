@@ -30,6 +30,9 @@ Hi, I'm Satyam Koshta, a Web Developer, Problem Solving Enthusiast and Open Sour
 <code><img width="30px" src="https://img.icons8.com/color/8x/000000/firebase.png" title="Firebase"/></code>
 <code><img width="30px" src="https://img.icons8.com/color/8x/000000/sass.png" title="Sass"/></code>
 <code><img width="30px" src="https://img.icons8.com/color/8x/000000/gitlab.png" title="GitLab"/></code>
+<code><img width="30px" src="https://img.icons8.com/color/8x/000000/linux.png" title="linux"/></code>
+<code><img width="30px" src="https://img.icons8.com/color/8x/000000/ubuntu.png" title="ubuntu"/></code>
+
 
 ![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=satyamkoshta340&show_icons=true&hide_border=true)
 
