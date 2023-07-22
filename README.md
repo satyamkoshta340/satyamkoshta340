@@ -32,8 +32,9 @@ Hi, I'm Satyam Koshta, a Web Developer, Problem Solving Enthusiast and Open Sour
 <code><img width="30px" src="https://img.icons8.com/color/8x/000000/ubuntu.png" title="ubuntu"/></code>
 
 
-![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=satyamkoshta340&show_icons=true&hide_border=true)
+<!-- ![Satyam's github stats](https://github-readme-stats.vercel.app/api?username=satyamkoshta340&show_icons=true&hide_border=true) -->
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=satyamkoshta340&count_private=true&show_icons=true&theme=nightowl" />
 
 <!--
 **satyamkoshta340/satyamkoshta340** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
