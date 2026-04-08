@@ -61,8 +61,8 @@ I am a passionate Full-Stack Developer based in 🇮🇳 **India**, dedicated to
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkoshta340&theme=radical&hide_border=true" width="94%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamkoshta340&theme=react-dark&hide_border=true&area=true" width="100%" />
+<!-- <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamkoshta340&theme=react-dark&hide_border=true&area=true" width="100%" /> -->
 
 ---
 
