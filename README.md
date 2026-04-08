@@ -1,94 +1,84 @@
-<h1 align="center">Hey 👋🏽, I'm <a href="https://satyamkoshta340.github.io/my-cv/" target="_blank">Satyam Koshta</a></h1>
+<div align="center">
+  <!-- Dynamic Typewriter Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=45&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Satyam+Koshta;Web+Developer;Problem+Solving+Enthusiast;AI+Explorer" alt="Typing SVG" />
+  </a>
 
-<p align="center">
-  Web Developer • Problem Solving Enthusiast • Open Source Contributor 🚀<br />
-  Based in 🇮🇳 India
-</p>
+  <p align="center">
+    <a href="https://satyamkoshta.vercel.app/" target="_blank">🌐 Portfolio</a> • 
+    <a href="https://www.linkedin.com/in/satyamkoshta340">💼 LinkedIn</a> • 
+    <a href="https://twitter.com/KoshtaSatyam">🐦 Twitter</a>
+  </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/satyamkoshta340">
-  <img src="https://img.shields.io/badge/LinkedIn-SatyamKoshta-blue?style=flat&logo=linkedin&logoColor=white" />
-</a>
-
-  <a href="https://twitter.com/KoshtaSatyam">
-  <img src="https://img.shields.io/badge/Twitter-@KoshtaSatyam-1ca0f1?style=flat&logo=twitter&logoColor=white" />
-</a>
-
-  <a href="mailto:satyamkoshta340@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-satyamkoshta340@gmail.com-c14438?style=flat&logo=gmail&logoColor=white" />
-</a>
-
-</p>
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+  <img src="https://img.shields.io/github/followers/satyamkoshta340?label=Follow&style=social" />
+</div>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-- 💻 I love building full-stack web applications
-- 🔭 Currently exploring scalable cloud infrastructure with **AWS**
-- 🧠 Passionate about **AI, LLMs, and emerging tech**
-- ⚡ Fun fact: I enjoy solving algorithmic problems and sharing my knowledge
-- 🤝 Open to collaboration on web, AI, and open-source projects
+I am a passionate Full-Stack Developer based in 🇮🇳 **India**, dedicated to building scalable web applications and exploring the intersection of AI and Infrastructure.
+
+*   🔭 **Focusing on:** Scalable cloud infrastructure with **AWS**.
+*   🧠 **Deep Diving:** AI, LLMs, and the LangChain ecosystem.
+*   ⚡ **Fun Fact:** I love dissecting complex algorithms over a cup of coffee.
+*   🤝 **Collaboration:** Open to innovative Web, AI, or Open-Source projects!
 
 ---
 
-## 🛠️ Skills & Technologies
+### 🛠️ Tech Stack
 
-### 👨‍💻 Languages, Tools & Frameworks:
-
+#### 🌐 Frontend & Backend
 <p>
-  <code><img width="30px" src="https://img.icons8.com/color/48/c-plus-plus-logo.png" title="C++"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/python.png" title="Python"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/javascript--v1.png" title="JavaScript"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/html-5.png" title="HTML5"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/css3.png" title="CSS3"/></code>
-  <code><img width="30px" src="https://img.icons8.com/plasticine/100/react.png" title="React.js"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/nodejs.png" title="Node.js"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/redux.png" title="Redux"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/firebase.png" title="Firebase"/></code>
-  <code><img width="30px" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" title="PostgreSQL"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/git.png" title="Git"/></code>
-  <code><img width="30px" src="https://img.icons8.com/fluent/48/github.png" title="GitHub"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/gitlab.png" title="GitLab"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/sass.png" title="Sass"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/linux.png" title="Linux"/></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/ubuntu.png" title="Ubuntu"/></code>
-  <code><img width="30px" src="https://img.icons8.com/?size=100&id=33039&format=png&color=000000" title="AWS"/></code>
-  <code><img width="30px" src="https://img.icons8.com/ios-filled/50/artificial-intelligence.png" title="AI / Machine Learning"/></code>
-  <code><img width="30px" src="https://logo.svgcdn.com/s/langchain-dark.svg" title="LangChain" /></code>
-  <code><img width="30px" src="https://img.icons8.com/color/48/microsoft.png" title="MCP Server"/></code>
-  <code><img width="30px" src="https://grpc.io/img/logos/grpc-icon-color.png" title="gRPC" /></code>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
 </p>
 
-  
+#### 💾 Database & Cloud
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+</p>
+
+#### 🤖 AI & Advanced Tech
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/gRPC-244c5a?style=for-the-badge&logo=grpc&logoColor=white" />
+</p>
+
 ---
 
-## 📊 GitHub Stats
+### 📊 GitHub Activity
 
 <p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=satyamkoshta340&count_private=true&show_icons=true&theme=nightowl" 
-    width="420" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=satyamkoshta340&layout=compact&theme=nightowl" 
-    width="330" 
-  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamkoshta340&theme=radical&hide_border=true" width="94%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamkoshta340&theme=react-dark&hide_border=true&area=true" width="100%" />
 
 ---
 
-## 📫 Reach Me
+### 📫 Connect with me
 
-- 📧 [Email](mailto:satyamkoshta340@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/satyamkoshta340/)
-- 🌐 [Portfolio Website](https://satyamkoshta340.github.io/my-cv/)
-- 🐦 [Twitter](https://twitter.com/KoshtaSatyam)
+<div align="center">
+  <a href="mailto:satyamkoshta340@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/satyamkoshta340">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/KoshtaSatyam">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</div>
 
----
-
-<!--
-**satyamkoshta340/satyamkoshta340** is a ✨ _special_ ✨ repository because its `README.md` appears on your GitHub profile.
--->
+</p>
+</p>
